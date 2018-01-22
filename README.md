@@ -1,7 +1,7 @@
 # QuoraUpvoter
 
 
-The script Upvotes all the answers of the desired quora member.
+The script Upvotes upto 45 answers of the desired quora member.
 
 The scripts works with Python versions 2.7, 3.5 and above.
 
